@@ -1,0 +1,1 @@
+-- All required shit is in the DeriveGamemode in init.

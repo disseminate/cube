@@ -1,0 +1,12 @@
+"Gamemode"
+{
+	"name"		"Cube"
+	"version"	"1.15"
+
+	"author_name"	"Disseminate"
+	"author_email"	""
+	"author_url"	""
+	
+	"info"		"The cube...is us."
+	"hide"		"0"
+}
